@@ -1,12 +1,10 @@
 ## 👋 Hey, I'm Elismar Silva Pereira
 
-I'm a passionate Fullstack Developer with over **5 years of experience** building robust, scalable, and resilient systems — especially in the **automotive**, **financial**, and **industrial** sectors.
+I'm a Fullstack Developer with 5+ years of experience building scalable systems across the automotive, financial, and industrial sectors.
 
-I specialize in backend development with **Java (Spring Boot, Spring WebFlux, Quarkus) and Node.js (NestJS and Express)**, crafting reactive APIs and microservices that serve thousands of users and process high-volume data with low latency. I’ve led modernization efforts of legacy systems, implemented event-driven architectures with **Kafka** and **RabbitMQ**, and worked across complex domains involving telemetry, banking transactions, and production floor monitoring.
+My core focus is backend development with Java (Spring Boot, WebFlux, Quarkus), microservices, and event-driven architectures. I also have experience with frontend development using React and TypeScript, especially in building real-time dashboards and collaborating closely with UX teams.
 
-On the frontend, I have practical experience with **React**, **TypeScript**, and dashboard development — always collaborating closely with UX and product teams to deliver seamless, real-time experiences.
-
-In addition to development, I work daily with **CI/CD (Jenkins, Azure DevOps)**, **Docker**, **Kubernetes**, **PostgreSQL**, **MongoDB**, **Redis**, and observability tools like **Grafana**, **Kibana**, and **Elastic Stack**. I value clean code, clear architecture, and teamwork — and I’m always learning and improving.
+I enjoy solving real problems through clean architecture, automation, and teamwork.
 
 ---
 
@@ -31,20 +29,30 @@ In addition to development, I work daily with **CI/CD (Jenkins, Azure DevOps)**,
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks:**  
-Java (Spring Boot, WebFlux, Quarkus), Node.js, TypeScript, React, C#
+Java (Spring Boot, WebFlux, Quarkus), Node.js, TypeScript, React, Python
 
 **Architecture & Patterns:**  
 Microservices, Hexagonal Architecture, RESTful APIs, BFF, Event-driven, DDD, Clean Architecture
 
 **Cloud & DevOps:**  
-Docker, Kubernetes, AWS (EC2, Lambda), Azure, Jenkins, Azure DevOps, GitHub Actions
+Docker, Kubernetes, Jenkins, AWS (EC2, Lambda)
 
 **Data & Messaging:**  
 PostgreSQL, MongoDB, MySQL, Redis, Kafka, RabbitMQ
 
 **Monitoring & Testing:**  
-Grafana, Kibana, Elastic Stack, New Relic, JUnit, Mockito, Selenium, Gatling, Locust
+Grafana, Kibana, Elastic Stack, JUnit, Mockito, Selenium, Locust
 
+---
+
+### 📫 **Let’s Connect!**  
+- **Collaboration:** Open to contributing to open-source or innovative projects.  
+- **Hire Me:** Seeking backend/microservices roles with scalable challenges.  
+- **Fun Fact:** When I'm not coding, you'll find me:
+  - **Rewatching classic anime** (Steins;Gate time travel theories > meetings).
+  - **Messing with old hardware** like overclocking a Core 2 Duo to run Python (why? Because I'ts fun).
+  - **I automate random life stuff** – like a script that texts me when my favorite manga drops a new chapter (no more F5 wars).
+  - **Playing retro gaming** with my newphews.
 ---
 
 ### 🌐 Find me elsewhere
