@@ -61,7 +61,7 @@ Grafana, Kibana, Elastic Stack, JUnit, Mockito, Selenium, Locust
   <a href="https://www.linkedin.com/in/elismarsilva/">
     <img src="https://raw.githubusercontent.com/Elismar13/Elismar13/master/.github/linkedin.svg" alt="LinkedIn" width="32"/>
   </a>
-  <a href="mailto:elismarsilva.5@outlook.com">
+  <a href="mailto:elismar.silva@academico.ifpb.edu.br">
     <img src="https://raw.githubusercontent.com/Elismar13/Elismar13/master/.github/mail.svg" alt="Email" width="32"/>
   </a>
   <a href="https://elismarsilvadev.netlify.app">
